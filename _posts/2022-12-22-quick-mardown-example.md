@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Quick markdown example
 subtitle: This is a quick markdown example

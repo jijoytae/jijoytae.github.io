@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Digital Forensics 
 subheading: Forensics Diary
@@ -6,7 +7,6 @@ author: heyjh
 categories: forensics
 tags: forensics
 sidebar: []
-published: true
 ---
 <!-- 
 #### 디지털포렌식 공부 일기 #### -->

@@ -37,6 +37,7 @@ description: "Hi"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jijoytae.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
+futrue: true
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -183,8 +184,6 @@ yat:
 markdown: kramdown
 kmarkdown:
   input: GFM
-  
-futrue: true
 
 plugins:
   - jekyll-feed
