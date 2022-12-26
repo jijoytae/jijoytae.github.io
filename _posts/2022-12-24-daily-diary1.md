@@ -5,8 +5,10 @@ subheading: 일상
 author: heyjh
 categories: diary
 tags: diary
-sidebar: [daily, diary]
+sidebar: []
 ---
+
+hi
 <!-- 
 일 - 집 - 일 - 집 반복하면서 연말을 보내고있는 중이다. 
 
