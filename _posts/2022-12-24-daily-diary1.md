@@ -6,7 +6,6 @@ subheading: 일상
 author: heyjh
 categories: diary
 tags: diary
-sidebar: []
 ---
 
 hi
