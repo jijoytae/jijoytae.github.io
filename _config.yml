@@ -183,6 +183,8 @@ yat:
 markdown: kramdown
 kmarkdown:
   input: GFM
+  
+futrue: true
 
 plugins:
   - jekyll-feed

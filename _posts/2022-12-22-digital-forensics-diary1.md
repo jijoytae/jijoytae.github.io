@@ -6,6 +6,7 @@ author: heyjh
 categories: forensics
 tags: forensics
 sidebar: []
+published: true
 ---
 <!-- 
 #### 디지털포렌식 공부 일기 #### -->

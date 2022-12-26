@@ -6,6 +6,7 @@ author: heyjh
 categories: diary
 tags: diary
 sidebar: []
+published: true
 ---
 
 hi
