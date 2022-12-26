@@ -5,15 +5,15 @@
     <img alt="jekyll-theme-yat →~ jekyll" src="https://user-images.githubusercontent.com/9413601/106478481-346fdf00-64e4-11eb-9385-1ab5329c3234.png" width="600">
   </a>
 
-  <h1>🎨 JEKYLL YAT THEME 🎨</h1>
+  <h1>🎨 Joy Blog 🎨</h1>
 
 </div>
 
-<h4 align="center">
+<!-- <h4 align="center">
   <a href="https://jekyllrb.com/" target="_blank"><code>Jekyll</code></a> theme for elegant writers.
-</h4>
+</h4> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://jeffreytse.github.io/jekyll-theme-yat">
     <img src="https://github.com/jeffreytse/jekyll-theme-yat/workflows/Github%20Pages/badge.svg"
       alt="Github Pages" />
@@ -43,36 +43,36 @@
   <img height="20" src="https://www.ko-fi.com/img/githubbutton_sm.svg"
   alt="Donate (Ko-fi)" />
   </a>
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <sub>Built with ❤︎ by
   <a href="https://jeffreytse.net">jeffreytse</a> and
   <a href="https://github.com/jeffreytse/jekyll-theme-yat/graphs/contributors">contributors </a>
-</div>
+</div> -->
 
 <br>
 
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
+<!-- Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
 **Yet Another Theme** is a modern responsive theme, and it's quiet clear,
 clean and neat for writers and posts. **If you like the theme, give it
-a star!**
+a star!** -->
 
-
+<!-- 
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/9413601/91842897-6a840b00-ec87-11ea-95ca-52abcc1ac063.png" alt="demo-screenshot" width="780px"/>
 
-</p>
+</p> -->
 
-<h3 align="center">🌌 Night Mode</h3>
+<!-- <h3 align="center">🌌 Night Mode</h3>
 
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/9413601/94983351-760f6e00-0574-11eb-9494-5303ad6228dc.gif" alt="demo-screenshot" width="780px"/>
 
-</p>
-
+</p> -->
+<!-- 
 ## ✨ Features
 
 - Support beautiful __Night Mode__.
@@ -88,8 +88,8 @@ a star!**
 - Media (Youtube, Spotify, etc.) support using [Jekyll Spaceship][jekyll-spaceship] gem.
 - Diagram (PlantUML, Mermaid) support using [Jekyll Spaceship][jekyll-spaceship] gem.
 - Google Translation support.
-- New post tag support.
-
+- New post tag support. -->
+<!-- 
 Also, visit the [Live Demo][yat-live-demo] site for the theme.
 
 ## 🛠️  Installation
@@ -140,8 +140,9 @@ gem "github-pages", group: :jekyll_plugins
 
 And add this line to your Jekyll site's `_config.yml`:
 
-```yaml
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+```yaml -->
+<!-- 
+# theme: owner/name Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
 ```
 
@@ -149,7 +150,7 @@ And then execute:
 
 ```bash
 $ bundle
-```
+``` 
 
 ### GitHub Pages without limitation
 
@@ -182,13 +183,13 @@ You can start by [opening an issue](https://github.com/jeffreytse/jekyll-theme-y
 ## 🌈 License
 
 This theme is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © JeffreyTse.
-
+-->
 <!-- External links -->
-[jekyll]: https://jekyllrb.com/
+<!-- [jekyll]: https://jekyllrb.com/
 [yat-git-repo]: https://github.com/jeffreytse/jekyll-theme-yat/
 [yat-live-demo]: https://jeffreytse.github.io/jekyll-theme-yat/
 [jekyll-spaceship]: https://github.com/jeffreytse/jekyll-spaceship
 [jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
-[highlight-js]: https://github.com/highlightjs/highlight.js
+[highlight-js]: https://github.com/highlightjs/highlight.js -->
