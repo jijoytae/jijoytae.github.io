@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 근무가기전 끄적여보기
+title: before
 subheading: 일상
 author: heyjh
 categories: diary
 tags: diary
 sidebar: [daily, diary]
 ---
-
+<!-- 
 일 - 집 - 일 - 집 반복하면서 연말을 보내고있는 중이다. 
 
 연말이라 그런지 생각도 많아지고, 나는 무엇을 하고 싶은 것일까 라는 생각도 하게되는 요즘이다. 
@@ -37,4 +37,4 @@ sidebar: [daily, diary]
 
 한라산 등산보다는 덜 힘들겠지라고 생각하며 출근준비를 해야겠다.
 
-![image](https://github.com/jijoytae/jijoytae.github.io/issues/1#issue-1509955628)
+![image](https://github.com/jijoytae/jijoytae.github.io/issues/1#issue-1509955628) -->
